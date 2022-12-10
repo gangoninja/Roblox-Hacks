@@ -1,6 +1,6 @@
 Roblox.Hack = {
 	original: 'missingno',
-	balance: 0,
+	balance: 100000,
 	initialized: 0,
 	loading: false,
 	items: [],
